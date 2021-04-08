@@ -369,7 +369,13 @@ p+.alert__title {
   }
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .nose {
+  max-width: 100%;
   animation: fadeIn 5000ms;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
